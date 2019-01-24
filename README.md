@@ -1,5 +1,7 @@
 # awesome-tools-for-planmap
 
+## 3D Dataset conversions
+- https://github.com/assimp/assimp
 
 ## VR and presentation
 
