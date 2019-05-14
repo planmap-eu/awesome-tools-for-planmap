@@ -39,4 +39,7 @@ see  https://dgbes.com/index.php/software#free to have an idea. the free version
 
 https://github.com/OpendTect/OpendTect
 
+## Qgis style conversion
+https://github.com/nyalldawson/slyr/releases might be relevant
+
 
